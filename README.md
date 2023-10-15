@@ -4,16 +4,11 @@ Hi 👋 My name is Pato Bottos
 Frontend Developer
 ------------------
 
-Frontend coding bootcamp graduate, with experience in web design and development. Frontend React developer certification by the IT Academy (Barcelona, 2023). More than 10 years of experience working on personal blogs, entrepreneurs and non-profit organizations websites using Wordpress.
+Front End coding bootcamp graduate, with experience in web design and development. Front End React developer certification by the IT Academy (Barcelona, 2023). More than 10 years of experience working on personal blogs, entrepreneurs and non-profit organizations websites using Wordpress.
 
 * 🌍  I'm based in Barcelona
+* ✉️  You can contact me at [patobottos\[at\]gmail.com](mailto:patobottos[at]gmail.com)
 * 🧠  I'm learning React
-* 🔭 I’m currently working on my portfolio
-* 👯 I’m looking to collaborate on React
-* 💬 Ask me about Anything!
-* 📫 You can contact me at: [patobottos\[at\]gmail.com](mailto:patobottos[at]gmail.com)
-* 😄 Pronouns: He/him
-
 
 ### Skills
 
@@ -26,3 +21,9 @@ Frontend coding bootcamp graduate, with experience in web design and development
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/patobottos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/patobottos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/patobottos"><img src="https://github-readme-stats.vercel.app/api?username=patobottos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="patobottos's GitHub stats" /></a>
