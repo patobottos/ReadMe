@@ -7,11 +7,11 @@ Frontend Developer
 Front End coding bootcamp graduate, with experience in web design and development. Front End React developer certification by the IT Academy (Barcelona, 2023). More than 10 years of experience working on personal blogs, entrepreneurs and non-profit organizations websites using Wordpress.
 
 * 🌍  I'm based in Barcelona
-* 🧠  I'm learning React
-* 🔭 I’m currently working on my portfolio
+* 🔭 I’m currently working on a Mastermind App (NextJS. Tailwind & Vercel)
 * 👯 I’m looking to collaborate on React
 * 💬 Ask me about Anything!
 * 📫 You can contact me at: [patobottos\[at\]gmail.com](mailto:patobottos[at]gmail.com)
+* 📚 My portfolio: https://patobottos.vercel.app 
 * 😄 Pronouns: He/him
 
 ### Skills
