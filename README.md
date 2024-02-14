@@ -10,8 +10,8 @@ Front End coding bootcamp graduate, with experience in web design and developmen
 * 🔭 I’m currently working on a Mastermind App (NextJS. Tailwind & Vercel)
 * 👯 I’m looking to collaborate on React
 * 💬 Ask me about Anything!
-* 📫 You can contact me at: [patobottos\[at\]gmail.com](mailto:patobottos[at]gmail.com)
 * 📚 My portfolio: https://patobottos.vercel.app 
+* 📫 You can contact me at: [patobottos\[at\]gmail.com](mailto:patobottos[at]gmail.com)
 * 😄 Pronouns: He/him
 
 ### Skills
